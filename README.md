@@ -1,1 +1,1 @@
-# Small files containing some basic machine learning models
+# Small projects containing some basic machine learning models
